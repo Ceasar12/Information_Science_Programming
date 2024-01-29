@@ -1,2 +1,3 @@
 # Information_Science_Programming
-learning programming
+All about programming
+start with C++
